@@ -1,0 +1,25 @@
+{
+  "name": "dev-doodle",
+  "version": "1.0.0",
+  "description": "zine for programmers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "dev-doodle"
+  },
+  "keywords": [
+    "zine",
+    "doodle",
+    "cartoons",
+    "art"
+  ],
+  "author": "Arthur Molayo Decker",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cli": "^1.4.0"
+  }
+}
